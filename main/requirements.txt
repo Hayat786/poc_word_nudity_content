@@ -1,0 +1,4 @@
+ tkinter 
+ profanity_check
+ tensorflow 
+ numpy 
